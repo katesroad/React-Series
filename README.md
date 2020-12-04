@@ -11,3 +11,4 @@
 
 - [A newbie friendly guide to expo](https://www.youtube.com/watch?v=0-S5a0eXPoc)
 - [React Native with Redux](https://www.youtube.com/watch?v=I0AQW2T3HPI)
+- [Coinbase React Native](https://blog.coinbase.com/onboarding-thousands-of-users-with-react-native-361219066df4)
