@@ -9,5 +9,5 @@
 
 ## React Native
 
-- [A newbie friendly to expo](https://www.youtube.com/watch?v=0-S5a0eXPoc)
+- [A newbie friendly guide to expo](https://www.youtube.com/watch?v=0-S5a0eXPoc)
 - [React Native with Redux](https://www.youtube.com/watch?v=I0AQW2T3HPI)
