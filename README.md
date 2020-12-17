@@ -8,6 +8,8 @@
 - [Class Component vs Function component in React](https://overreacted.io/how-are-function-components-different-from-classes/)
 - [Config alias for Create React App template](https://dev.to/blundert/create-react-app-import-modules-using-aliases-with-webpack-and-typescript-49o0)
 - [React Styling Guidelines](./Styling-React.md)
+- [React Testing]()
+- [React Hooks](https://www.educative.io/courses/road-to-react-with-hooks)
 
 ## React Native
 
