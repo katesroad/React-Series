@@ -10,6 +10,8 @@
 - [React Styling Guidelines](./Styling-React.md)
 - [React Testing](https://www.youtube.com/watch?v=w6KCDFssHFA&list=PLV5CVI1eNcJhU1eyqkTjR0B5P7PzMVubB)
 - [React Hooks](https://www.educative.io/courses/road-to-react-with-hooks)
+- [React theme switching](https://epicreact.dev/css-variables/)
+
 
 ## React Native
 
