@@ -12,6 +12,9 @@
 - [React Hooks](https://www.educative.io/courses/road-to-react-with-hooks)
 - [React theme switching](https://epicreact.dev/css-variables/)
 - [State Reducer pattern in React](https://www.youtube.com/watch?list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf&v=AiJ8tRRH0f8&feature=emb_logo)
+- Build your own React
+  - https://pomb.us/build-your-own-react/
+  - https://www.youtube.com/watch?v=CGpMlWVcHok
 
 
 ## React Native
