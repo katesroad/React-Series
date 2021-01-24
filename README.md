@@ -15,6 +15,14 @@
 - Build your own React
   - https://pomb.us/build-your-own-react/
   - https://www.youtube.com/watch?v=CGpMlWVcHok
+- Epic React Tutorial:
+  >1. React fundamentals: https://github.com/kentcdodds/react-fundamentals
+  >2. React hooks: https://github.com/kentcdodds/react-hooks
+  >3. React advanced hooks: https://github.com/kentcdodds/advanced-react-hooks
+  >4. React advanced patterns: https://github.com/kentcdodds/advanced-react-patterns 
+  >5. React performance tuning:https://github.com/kentcdodds/react-performance
+  >6. Testing React: https://github.com/kentcdodds/testing-react-apps
+  >7. Capstone project: https://github.com/kentcdodds/bookshelf
 
 
 ## React Native
