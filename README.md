@@ -8,7 +8,7 @@
 - [Class Component vs Function component in React](https://overreacted.io/how-are-function-components-different-from-classes/)
 - [Config alias for Create React App template](https://dev.to/blundert/create-react-app-import-modules-using-aliases-with-webpack-and-typescript-49o0)
 - [React Styling Guidelines](./Styling-React.md)
-- [React Testing]
+- React Testing
   - [Testing at paypal](https://www.youtube.com/watch?v=w6KCDFssHFA&list=PLV5CVI1eNcJhU1eyqkTjR0B5P7PzMVubB)
   - [Testing with Cypress](https://www.youtube.com/watch?v=xD5ArlskA1w)
 - [React Hooks](https://www.educative.io/courses/road-to-react-with-hooks)
