@@ -25,6 +25,9 @@
   5. React performance tuning:https://github.com/kentcdodds/react-performance
   6. Testing React: https://github.com/kentcdodds/testing-react-apps
   7. Capstone project: https://github.com/kentcdodds/bookshelf
+ 
+ - How to handle authentication in React application
+  [https://kentcdodds.com/blog/authentication-in-react-applications](https://kentcdodds.com/blog/authentication-in-react-applications)
 
 
 ## React Native
